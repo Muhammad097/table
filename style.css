@@ -1,0 +1,15 @@
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    font-family: 'Open Sans', sans-serif;
+}
+th, td {
+    padding: 5px 10px;
+    text-align: center;
+}
+tr:last-child {
+    background-color: aqua;
+}
+tr:first-child {
+    background-color: red;
+}
